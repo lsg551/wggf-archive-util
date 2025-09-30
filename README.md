@@ -1,6 +1,6 @@
 # WGGF Archive Util
 
-Python script to download the monthly digests of the [WGGF](www.wggf.de).
+Python script to download the monthly digests of the [WGGF](https://www.wggf.de).
 
 ```console
 $ python wggf_archive_util.py --help
